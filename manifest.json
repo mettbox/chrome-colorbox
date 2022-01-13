@@ -1,0 +1,22 @@
+{
+  "name": "colorbox",
+  "description": "RGBA to Hex color converter",
+  "version": "0.1",
+  "manifest_version": 3,
+  "permissions": ["scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/andy16.png",
+      "32": "/images/andy32.png",
+      "48": "/images/andy48.png",
+      "128": "/images/andy128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/andy16.png",
+    "32": "/images/andy32.png",
+    "48": "/images/andy48.png",
+    "128": "/images/andy128.png"
+  }
+}
